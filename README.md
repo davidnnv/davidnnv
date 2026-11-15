@@ -1,14 +1,19 @@
-# Front-End Dev | React.js
 
-I'm David, a front-end developer, keeping things simple, and having a good time building cool stuff on the web.
+### Front-End Developer | React.js
+
+I'm interested in web development and enjoy building things for the web. I like keeping things simple, learning by doing, and improving with every project.
 
 ## About Me
 
- -I code because I enjoy it, and I don't take myself too seriously.
-- I make websites look pretty and function smoothly, all while keeping the codebase clean and maintainable.
-- I prefer to stick with good old vanilla JS, but I can bust out a bit of jQuery magic if needed.
-- I've whipped up a bunch of stuff. Some are impressive, some are weird, but they're all a product of my wild imagination.
-- I know my way around CSS, sometimes i use Bootstrap and MaterialUI.
-- 🚀 Learning: I'm learning new stuff one step at a time. 
+- Currently focusing on JavaScript and React.js.
+- Building personal projects to put what I learn into practice.
+- Interested in creating functional, responsive, and easy-to-use web applications.
+- Always exploring new things and learning at my own pace.
 
+## Technologies
+
+- **Languages:** JavaScript
+- **Markup & Styling:** HTML5, CSS3
+- **Frameworks & Libraries:** React.js, Bootstrap, Material UI
+- **Tools:** Git, GitHub, VS Code
 
